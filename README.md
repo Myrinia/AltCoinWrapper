@@ -18,7 +18,7 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 
 # **Supported Miners**
 * ccminer Version: tpruvot @https://github.com/tpruvot/ccminer
- *excavator Version: Nicehash @https://github.com/nicehash/excavator
+* excavator Version: Nicehash @https://github.com/nicehash/excavator
 
 # Planned Miners
 * ccMiner Version: KlausT
