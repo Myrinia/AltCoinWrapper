@@ -22,6 +22,7 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 
 # Planned Miners
 * ccMiner Version: KlausT
+* ccMiner Version: Nanashi-Meiyo-Meijin
 * I'm open for requests
 
 # Supported Coins:
@@ -41,32 +42,38 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 # Default Pools. ( Can be Changed using the GUI )
 **Some of them work really bad for me, so i'm also looking for more stable pools, if someone can suggest some, i'd be happy :)**
 	
-	* ZEC 		eu1-zcash.flypool.net
-	* VTC 		vtc.poolmining.org
-	* ZEN 		zen.pool.sexy
-	* MONA 	lyra2v2.n-engine.com
-	* ETH 		eu1.ethermine.org
-	* ETC 		eu1-etc.ethermine.org
-	* VIVO 	altminer.net
-	* TZC 		altminer.net
-	* ALTCOM 	s.umine.org
-	* BWK 		s.umine.org
-	* BTG 		eu.pool.gold
+	ZEC 		eu1-zcash.flypool.net
+	VTC 		vtc.poolmining.org
+	ZEN 		zen.pool.sexy
+	MONA 	lyra2v2.n-engine.com
+	ETH 		eu1.ethermine.org
+	ETC 		eu1-etc.ethermine.org
+	VIVO 	altminer.net
+	TZC 		altminer.net
+	ALTCOM 	s.umine.org
+	BWK 		s.umine.org
+	BTG 		eu.pool.gold
 	
 
 # F.A.Q.	
 *Does it contain Fees / Virus / Keyloggers or anything which is not stated above.
+
 **No.**
 
 **Why is it written in Java.**
+
 *Straight forward development, to finish the project fast, there is no need for the Wrapper to be fast, the work is done by the Miner executables itself*
+
 *Easy to decompile, for those who want to have a look into the source / don't believe that there are no fees, or hidden actions performed ....*
 
 **Supported OS**
+
 *Windows 7,8,8.1,10 - Yes*
+
 *Unix - Not Testst, for Sure the Executables in MinerBinarys/ needs to get exchange, then it might work.*
 
 **Why don't you release the Source Code**
+
 *I don't want to have "Fake" Wrappers released that contain harmful software, thats not what this project is about.*
 
 
