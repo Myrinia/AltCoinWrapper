@@ -2,7 +2,7 @@
 
 AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out there..
 
-# **What it does in Detail**
+# **What it does: In Detail**
 
 *All requests are made using the API of the provided Miners*
 
@@ -17,8 +17,8 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 * The Miner will start Mining
 
 # **Supported Miners**
-*ccminer Version: tpruvot @https://github.com/tpruvot/ccminer
-*excavator Version: Nicehash @https://github.com/nicehash/excavator
+* ccminer Version: tpruvot @https://github.com/tpruvot/ccminer
+ *excavator Version: Nicehash @https://github.com/nicehash/excavator
 
 # Planned Miners
 * ccMiner Version: KlausT
@@ -37,7 +37,7 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 * ALTCOM
 * BWK
 * BTG
-** I'm open for requests
+* I'm open for requests
 		
 # Default Pools. ( Can be Changed using the GUI )
 **Some of them work really bad for me, so i'm also looking for more stable pools, if someone can suggest some, i'd be happy :)**
@@ -45,20 +45,20 @@ AltCoinWrapper provides a simple to use GUI for diffrent Cryptocoin Miners out t
 	ZEC 		eu1-zcash.flypool.net
 	VTC 		vtc.poolmining.org
 	ZEN 		zen.pool.sexy
-	MONA 	lyra2v2.n-engine.com
+	MONA 		lyra2v2.n-engine.com
 	ETH 		eu1.ethermine.org
 	ETC 		eu1-etc.ethermine.org
-	VIVO 	altminer.net
+	VIVO 		altminer.net
 	TZC 		altminer.net
-	ALTCOM 	s.umine.org
+	ALTCOM 		s.umine.org
 	BWK 		s.umine.org
 	BTG 		eu.pool.gold
 	
 
 # F.A.Q.	
-*Does it contain Fees / Virus / Keyloggers or anything which is not stated above.
+**Does it contain Fees / Virus / Keyloggers or anything which is not stated above.**
 
-**No.**
+*No.*
 
 **Why is it written in Java.**
 
