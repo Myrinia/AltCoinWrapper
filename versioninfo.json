@@ -1,1 +1,17 @@
-{"version":"0.0.1","updates":[{"data":"-) More Miners ( KlausT, Alexis ... ) "},{"data":"-) More Miners ( KlausT, Alexis ... ) "},{"data":"-) Set Hashingpower of diffrent Algorythms manually \n ( atm. it uses WhattoMine default values based on your RIG Config )"}]}
+{
+  "version": "0.0.1",
+  "updates": [
+    {
+      "data": "-) More Miners ( KlausT, Alexis ... ) "
+    },
+    {
+      "data": "-) More Coins / Algorythms to Mine "
+    },
+    {
+      "data": "-) Allow Miner to automatically check for more Profitable Algorythms and change Alorythm"
+    },
+    {
+      "data": "-) Set Hashingpower of diffrent Algorythms manually \n ( atm. it uses WhattoMine default values based on your RIG Config )"
+    }
+  ]
+}
